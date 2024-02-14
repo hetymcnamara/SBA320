@@ -12,7 +12,7 @@ export default function App() {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': c10ff84810msh8e135e5618b076bp188102jsnd4ce0c6560c4',
+        'X-RapidAPI-Key': 'c10ff84810msh8e135e5618b076bp188102jsnd4ce0c6560c4',
         'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com',
         'Access-Control-Allow-Origin': '`https://ornate-gnome-3a7d75.netlify.app/`',
         'Access-Control-Allow-Headers': 'Origin, X-Requested-With, Content-Type, Accept',
